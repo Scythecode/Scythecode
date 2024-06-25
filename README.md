@@ -2,7 +2,7 @@
 - 👀 I’m interested in computer programing, linux, and malware
 - 🌱 I’m currently learning web development and java
 - 💞️ I’m looking to collaborate on nothing at the moment
-- 📫 How to reach me: You can't
+- 📫 How to reach me: My email or discord (email: sammie.dev@proton.me. discord: its__scythe)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: What? There are zero fun facts about me
 
