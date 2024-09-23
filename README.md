@@ -1,10 +1,7 @@
 - 👋 Hi, I’m Scythe but you can call me Sam
-- 👀 I’m interested in computer programing, linux, and malware
-- 🌱 I’m currently learning web development and java
-- 💞️ I’m looking to collaborate on nothing at the moment
+- 👀 I’m interested in computer programing, malware, and making software do things it's not supposed to
 - 📫 How to reach me: My email or discord (email: sammie.dev@proton.me. discord: its__scythe)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: What? There are zero fun facts about me
 
 <!---
 Scythecode/Scythecode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
