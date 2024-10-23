@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Scythe but you can call me Sam.
-- 👀 I’m interested in linux, programming, malware, and older unix-like operating systems.
-- 📫 How to reach me: My email or discord (email: sammie.dev@proton.me. discord: its__scythe).
-- 😄 Pronouns: any that you want.
+- 🔭 I’m currently working on my personal website
+- 👋 Hi, I’m Scythe but you can call me Sam
+- 👀 I’m interested in linux, programming, malware, and older unix-like operating systems
+- 📫 How to reach me: My email or discord (email: sammie.dev@proton.me, discord: its__scythe)
+- 😄 Pronouns: any that you want
 
 <!---
 Scythecode/Scythecode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
