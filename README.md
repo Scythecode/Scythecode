@@ -1,5 +1,5 @@
 ### 👋 Hi, I’m Scythe
-Currently there isn't much here, but I'm hoping to get some projects up soon!
+Currently I'm learning Python, and I have a repo of projects I'm building while learning it! Go check it out :3
 
 <!---
 Scythecode/Scythecode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
